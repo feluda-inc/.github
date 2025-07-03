@@ -8,6 +8,6 @@ Welcome to Feluda. We reduce your outage time by 40%
 
 [Our Company](https://getfeluda.com)
 
-[Start Creating Ads](https://app.getfeluda.com)
+[Automate Associating Your Logs to Code](https://app.getfeluda.com)
 
 [Say Hello](mailto:hello@getfeluda.com)
