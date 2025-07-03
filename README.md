@@ -1,6 +1,7 @@
 # Feluda
 
-<img src="https://images.rawpixel.com/image_png_social_landscape/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvam9iNjgyLTE5MS1wXzEucG5n.png">
+
+<img width="371" alt="Screenshot 2025-07-03 at 15 15 42" src="https://github.com/user-attachments/assets/ff133be0-73dd-43e0-abf3-a57737532584" />
 
 ## About Us
 Welcome to Feluda. We reduce your outage time by 40%
